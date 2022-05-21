@@ -1,0 +1,1 @@
+eb_app_name = "sample-php-app"
